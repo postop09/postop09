@@ -1,14 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-[![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=HTML5&logoColor=black)](github.com/Joowon0220/TODO-List)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=CHO%20YUN%20SIK&fontSize=90)
 
 
 
-- 👋 Hi, I’m CHO YUN SIK
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me postop09@naver.com
+
+
+**👋 Hi, I’m CHO YUN SIK**
+
+**👀 I’m interested in Front-end**
+
+**🌱 I’m currently learning Javascript/react.js**
+
+**🛠 Skills 🛠**
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black)](github.com/Joowon0220/TODO-List)
+
+**📫 How to reach me postop09@naver.com**
+
 
 
 <!---

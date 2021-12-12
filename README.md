@@ -6,7 +6,9 @@
 
 **👋 Hi, I’m CHO YUN SIK**
 
-**👀 I’m interested in Front-end**
+**👀 I’m interested in**
+- Front-end
+- Web Accessibility
 
 **🌱 I’m currently learning Javascript/react.js**
 

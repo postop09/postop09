@@ -17,7 +17,8 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black)](github.com/Joowon0220/TODO-List)
 
-**📫 How to reach me postop09@naver.com**
+**📫 How to contact me**
+- postop09@naver.com
 
 
 

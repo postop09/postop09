@@ -19,9 +19,10 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black)](github.com/Joowon0220/TODO-List)
 
-**Blog**
-- https://postop09.github.io
-- https://watchwebs.tistory.com/
+**👀 Blog**
+
+- Personal blog [https://watchwebs.tistory.com/]
+- Front-end-school [https://postop09.github.io]
 
 **📫 How to contact me**
 - postop09@naver.com

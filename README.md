@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Challenge&fontSize=70)
 
 
-**👋 안녕하세요! 조윤식입니다. Hi, I’m CHO YUN SIK.**
+**👋 안녕하세요! 프론트 엔드 개발자 조윤식입니다. Hi, I’m CHO YUN SIK.**
 
 **🌱 I’m currently learning Javascript/react.js**
 

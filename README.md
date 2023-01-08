@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Challenge&fontSize=70)
 
 
-**👋 안녕하세요! 프론트 엔드 개발자 조윤식입니다. Hi, I’m CHO YUN SIK.**
+**👋 안녕하세요! 프론트엔드 개발자 조윤식입니다. Hi, I’m CHO YUN SIK.**
 
-**🌱 I’m currently learning Javascript/react.js**
+**🌱 I’m currently learning TypeScript/refactoring**
 
 **👀 I’m interested in**
 - Front-end
 - Web Accessibility
 
 **👀 Blog**
-- [Personal blog](https://watchwebs.tistory.com/) : about Web Accessibility & JavaScript
-- [Front-end-school](https://postop09.github.io) : bootcamp story
+- [Personal blog](https://watchwebs.tistory.com/) : about Web Accessibility & Develop Log
 
 **📫 How to contact me**
 - postop09@naver.com
@@ -27,6 +26,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/React-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>

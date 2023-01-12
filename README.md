@@ -8,12 +8,18 @@
 **👀 I’m interested in**
 - Front-end
 - Web Accessibility
+- Readable code
 
 **👀 Blog**
 - [Personal blog](https://watchwebs.tistory.com/) : about Web Accessibility & Develop Log
 
 **📫 How to contact me**
 - postop09@naver.com
+
+**📫 I'm studying now**
+- Typescript
+- Refactoring
+- Clean code
 
 <br/>  
 
